@@ -1,17 +1,22 @@
 export const MenuItems = [
   {
-    name: "Home",
+    name: "Service",
     href: "/",
     icon: "HomeIcon",
   },
   {
-    name: "About",
+    name: "Portfolio",
     href: "/about",
     icon: "UserIcon",
   },
   {
-    name: "Contact",
+    name: "About",
     href: "/contact",
     icon: "MailIcon",
   },
+  {
+    name: "Contact Me",
+    href: "/contact",
+    icon: "MailIcon",
+  }
 ]

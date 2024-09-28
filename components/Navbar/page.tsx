@@ -1,7 +1,7 @@
-import React from 'react'
+import Menu from './Menu'
 
 export default function page() {
   return (
-    <div>page</div>
+    <><Menu /></>
   )
 }
