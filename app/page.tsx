@@ -1,4 +1,4 @@
-import Hero from '@/section/Hero/page'
+import Hero from '@/app/section/Hero/page'
 // import Service from '@/section/Service/page';
 
 export default function Home() {
