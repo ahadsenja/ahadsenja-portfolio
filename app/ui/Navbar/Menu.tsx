@@ -1,5 +1,5 @@
 import Item from './Item'
-import { MenuItems } from './dataMenuItems'
+import { MenuItems } from '../../lib/data-menuItems'
 
 export default function Menu({ menuItems }: any) {
   return (
